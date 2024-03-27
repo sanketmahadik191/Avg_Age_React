@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Avg_Age_React/static/css/main.8589d6d8.css",
+    "main.js": "/Avg_Age_React/static/js/main.3f209c81.js",
+    "static/js/453.5011ba07.chunk.js": "/Avg_Age_React/static/js/453.5011ba07.chunk.js",
+    "index.html": "/Avg_Age_React/index.html",
+    "main.8589d6d8.css.map": "/Avg_Age_React/static/css/main.8589d6d8.css.map",
+    "main.3f209c81.js.map": "/Avg_Age_React/static/js/main.3f209c81.js.map",
+    "453.5011ba07.chunk.js.map": "/Avg_Age_React/static/js/453.5011ba07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8589d6d8.css",
+    "static/js/main.3f209c81.js"
+  ]
+}
